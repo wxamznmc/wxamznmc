@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Win</h1>
 <h3 align="center">A student at the School of Information Technology, KMITL.</h3>
 
-## Languages and Tools
+## Skills
 
 ### Languages
 <p align="left">
